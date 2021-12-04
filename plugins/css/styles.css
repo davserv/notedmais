@@ -1,0 +1,22 @@
+
+.logo-small {
+    font-size: 15px;
+    color: #2c3539;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
+}
+
+#content {
+    width: auto;
+    height:auto;
+    padding: 13px;
+    /*background-color: #fff;*/
+    font-size: 20px;
+}
+	
