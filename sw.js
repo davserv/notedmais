@@ -6,7 +6,7 @@ var filesToCache = [
     './bootstrap/css/bootstrap.min.css',
     './bootstrap/font-awesome/css/font-awesome.min.css',
     './plugins/dist/css/AdminLTE.min.css',
-    './plugins/dist/css/skins/_all-skins.min.css',
+    './plugins/dist/css/skins/all-skins.min.css',
     './plugins/pace/pace.min.css',
     'https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic',
     './plugins/jQuery/jquery-3.1.1.min.js',
