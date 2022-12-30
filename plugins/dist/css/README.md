@@ -12,7 +12,7 @@ Para Converter Markdown README em HTML , simplesmente...
 Abra o serv [emarkdown.pages.dev][emarkdown.pages.dev]
 ----------
 
-[![Open in Cloud Shell](https://www.fullstackpython.com/img/logos/markdown.png)](https://emarkdown.pages.dev/#davidsonbpe/googlecloud-php/main/README)
+[![githubusercontent](https://raw.githubusercontent.com/davserv/notedmais/main/plugins/dist/css/Capturar.PNG)](https://emarkdown.pages.dev/#davidsonbpe/googlecloud-php/main/README)
 
 [Como UsarURL](#UsarURL)
 ----------
