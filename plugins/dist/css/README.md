@@ -1,18 +1,18 @@
 <img src="https://emarkdown.pages.dev/d-framework/icon/512.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
 
-# Converter Markdown README em HTML
+# CONVERTER MARKDOWN README EM HTML
 
-Esta app contém o código para executar um aplicativo em Converter Markdown README em HTML [Markdown][emarkdown.pages.dev]
+ESTA APP CONTÉM O CÓDIGO PARA EXECUTAR UM APLICATIVO EM CONVERTER MARKDOWN README EM HTML [Markdown][emarkdown.pages.dev]
 
 [emarkdown.pages.dev]: https://emarkdown.pages.dev
 
-Para Converter Markdown README em HTML , simplesmente...
+PARA CONVERTER MARKDOWN README EM HTML , simplesmente...
 ----------
 
 Abra o serv [emarkdown.pages.dev][emarkdown.pages.dev]
 ----------
 
-[![githubusercontent](https://raw.githubusercontent.com/davserv/notedmais/main/plugins/dist/css/Capturar.PNG)](https://emarkdown.pages.dev/#davidsonbpe/googlecloud-php/main/README)
+[![Open in Cloud Shell](https://www.fullstackpython.com/img/logos/markdown.png)](https://emarkdown.pages.dev/?url=raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md)
 
 [Como UsarURL](#UsarURL)
 ----------
@@ -27,17 +27,17 @@ https://raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md
 Edita Nome README
 
 ```bash
-davidsonbpe/googlecloud-php/main/README
+raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md
 
 ```
 
 URL abaixo...
 ```bash
-https://emarkdown.pages.dev/#davidsonbpe/googlecloud-php/main/README
+https://emarkdown.pages.dev/?url=raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md
 
 ```
 
-1. Acesse o aplicativo em execução em um navegador em <https://emarkdown.pages.dev/#davidsonbpe/googlecloud-php/main/README>
+1. Acesse o aplicativo em execução em um navegador em <https://emarkdown.pages.dev/?url=raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md>
 --------
 
 
