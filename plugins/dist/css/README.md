@@ -12,7 +12,7 @@ PARA CONVERTER MARKDOWN README EM HTML , simplesmente...
 Abra o serv [emarkdown.pages.dev][emarkdown.pages.dev]
 ----------
 
-[![CONVERTER MARKDOWN](https://raw.githubusercontent.com/davserv/notedmais/main/plugins/dist/css/Capturar.PNG)](https://emarkdown.pages.dev/?url=raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md)
+[![CONVERTER MARKDOWN](https://raw.githubusercontent.com/davserv/notedmais/main/plugins/dist/css/Capturar.jpg)](https://emarkdown.pages.dev/?url=raw.githubusercontent.com/davidsonbpe/googlecloud-php/main/README.md)
 
 [Como UsarURL](#UsarURL)
 ----------
