@@ -1,4 +1,4 @@
-<img src="https://emarkdown.pages.dev/d-framework/icon/512.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
+<img src="https://emarkdown.pages.dev/d-framework/icon/512/favicon.png" min-width="150px" max-width="150px" width="150px" align="right" alt="">
 
 # EMARKDOWN | CONVERTER MARKDOWN README EM HTML
 
